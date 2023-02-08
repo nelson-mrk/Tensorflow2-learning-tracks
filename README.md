@@ -1,3 +1,3 @@
-# C-plus-plus-new-start
-make the notes of C plus plus learning
+# start to use tensorflow2
+make the notes of Tensorflow learning
 study the basic use of github
